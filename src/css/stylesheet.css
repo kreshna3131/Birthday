@@ -2391,8 +2391,8 @@ footer {
 }
 
 .polaroid {
-	width: 240x;
-	height: 220px;
+	width: 400px;
+	height: 340px;
 	position: absolute;
 	float: left;
 	background: #1e1c18;
